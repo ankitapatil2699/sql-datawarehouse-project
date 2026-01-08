@@ -56,7 +56,6 @@ Product Performance
 Sales Trends
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
-For more details, refer to docs/requirements.md.
 
 📂 Repository Structure
 data-warehouse-project/
@@ -82,8 +81,4 @@ data-warehouse-project/
 ├── LICENSE                             # License information for the repository
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
- 
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
-
-YouTube LinkedIn Website Newsletter PayPal Join
